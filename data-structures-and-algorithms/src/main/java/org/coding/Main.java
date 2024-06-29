@@ -1,11 +1,9 @@
 package org.coding;
 
-import java.io.*;
-
-
 public class Main {
-    static InputReadWrite inputReadWrite;
-    public static void main(String[] args) throws IOException {
-       inputReadWrite.readInput();
+    static InputReadWrite inputReadWrite = new InputReadWrite();
+
+    public static void main(String[] args) {
+        inputReadWrite.readInput();
     }
 }
