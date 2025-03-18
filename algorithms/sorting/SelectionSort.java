@@ -1,4 +1,4 @@
-package org.coding.sorting;
+package algorithms.sorting;
 
 public class SelectionSort {
 

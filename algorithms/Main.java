@@ -1,4 +1,5 @@
-package org.coding;
+package algorithms;
+
 
 public class Main {
     static InputReadWrite inputReadWrite = new InputReadWrite();

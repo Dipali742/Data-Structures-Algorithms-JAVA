@@ -1,4 +1,4 @@
-package org.coding;
+package algorithms;
 
 import java.io.*;
 
