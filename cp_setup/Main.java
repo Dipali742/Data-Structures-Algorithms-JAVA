@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) {
         setUp();
-       Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
 
         if (n <= 2) {
